@@ -1,0 +1,7 @@
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\bin\Debug\Console_HelloAssignment.exe.config
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\bin\Debug\Console_HelloAssignment.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\bin\Debug\Console_HelloAssignment.pdb
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\obj\Debug\Console_HelloAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\obj\Debug\Console_HelloAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\obj\Debug\Console_HelloAssignment.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_HelloAssignment\Console_HelloAssignment\obj\Debug\Console_HelloAssignment.pdb
