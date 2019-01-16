@@ -1,0 +1,7 @@
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\bin\Debug\Console_ListOfObjects.exe.config
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\bin\Debug\Console_ListOfObjects.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\bin\Debug\Console_ListOfObjects.pdb
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\obj\Debug\Console_ListOfObjects.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\obj\Debug\Console_ListOfObjects.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\obj\Debug\Console_ListOfObjects.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Quick Code\Console_ListOfObjects\Console_ListOfObjects\obj\Debug\Console_ListOfObjects.pdb
