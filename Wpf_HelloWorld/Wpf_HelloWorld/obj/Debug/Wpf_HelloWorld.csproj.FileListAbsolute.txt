@@ -1,0 +1,15 @@
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\App.g.cs
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld_MarkupCompile.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\bin\Debug\Wpf_HelloWorld.exe.config
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\bin\Debug\Wpf_HelloWorld.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\bin\Debug\Wpf_HelloWorld.pdb
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld_MarkupCompile.lref
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.g.resources
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.Properties.Resources.resources
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.csproj.GenerateResource.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.exe
+C:\Users\Voltron\Documents\CIT195\Week01\Wpf_HelloWorld\Wpf_HelloWorld\obj\Debug\Wpf_HelloWorld.pdb

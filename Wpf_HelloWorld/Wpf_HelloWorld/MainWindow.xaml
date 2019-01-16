@@ -1,0 +1,45 @@
+﻿<Window x:Class="Wpf_HelloWorld.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_HelloWorld"
+        mc:Ignorable="d"
+        Title="Hello World" Height="450" Width="800">
+    <Grid Background="#FFD39DAC">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Label 
+            Content="My First App" 
+            Grid.Row="0"
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Center" 
+            Height="46" Width="120" 
+            FontFamily="Monotype Corsiva" 
+            FontSize="20" 
+            Foreground="#FF080707" 
+            Background="{x:Null}"/>
+        <Button 
+            Content="Click Me" 
+            Grid.Row="1"
+            HorizontalAlignment="Center"  
+            VerticalAlignment="Center" 
+            Width="127" 
+            Height="40" 
+            Background="#FF080707" 
+            Foreground="#FFD39DAC" 
+            FontSize="20" 
+            FontFamily="Monotype Corsiva" Click="Button_Click" MouseEnter="Button_MouseEnter"/>
+        <Label x:Name="lbl_Day" 
+            Content = "Monday"
+            Grid.Row="3"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center" 
+            FontFamily="Monotype Corsiva" 
+            FontSize="20"/>
+    </Grid>
+</Window>
