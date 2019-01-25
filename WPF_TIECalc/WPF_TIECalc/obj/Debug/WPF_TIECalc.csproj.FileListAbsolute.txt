@@ -1,0 +1,17 @@
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\MainWindow.g.cs
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\SolutionWindow.g.cs
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\App.g.cs
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc_MarkupCompile.cache
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc_MarkupCompile.lref
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\bin\Debug\WPF_TIECalc.exe.config
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\bin\Debug\WPF_TIECalc.exe
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\bin\Debug\WPF_TIECalc.pdb
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\MainWindow.baml
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\SolutionWindow.baml
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.g.resources
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.Properties.Resources.resources
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.csproj.GenerateResource.cache
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.exe
+C:\Users\Voltron\Documents\CIT195\Week02\WPF_TIECalc\WPF_TIECalc\obj\Debug\WPF_TIECalc.pdb

@@ -1,0 +1,28 @@
+﻿<Window x:Class="WPF_TIECalc.SolutionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TIECalc"
+        mc:Ignorable="d"
+        Title="Maturity Calculation" Height="150" Width="300">
+    <Grid Background="#FFF4ADFB">
+        <StackPanel>
+        <Label 
+            Content="The maturity value of the loan will be..."
+            FontSize="13"
+            HorizontalAlignment="Center"/>
+        <Label 
+            x:Name="Label_Interest" 
+            FontSize="13" Height="45"
+            Content="Interest"
+            HorizontalAlignment="Center"/>
+            <Button 
+                x:Name="Button_Close" 
+                HorizontalAlignment="Center"
+                Content="Close"
+                Height="25" 
+                Width="100" Click="Button_Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
