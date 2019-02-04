@@ -1,0 +1,79 @@
+﻿<Window x:Class="WPF_TheConverter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_TheConverter"
+        mc:Ignorable="d"
+        Title="The Converter" Height="450" Width="800">
+    <Grid Background="#FF4D4A4A">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Label
+            Grid.Row="0"
+            Grid.Column="0"
+            Content="Feet"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center"
+            FontSize="16"
+            FontWeight="Bold" 
+            FontFamily="PT Serif"
+            Foreground="Aquamarine"/>
+        <TextBox 
+            x:Name="Textbox_Feet" 
+            Grid.Row="0"
+            Grid.Column="1"
+            Width="100"
+            Height="30"
+            HorizontalAlignment="Left"/>
+        <Label
+            Grid.Row="1"
+            Grid.Column="0"
+            Content="Meters"
+            HorizontalAlignment="Right"
+            VerticalAlignment="Center"
+            FontSize="16"
+            FontWeight="Bold"
+            FontFamily="PT Serif"
+            Foreground="Aquamarine"/>
+        <TextBox 
+            x:Name="Textbox_Meters" 
+            Grid.Row="1"
+            Grid.Column="1"
+            Width="100"
+            Height="30"
+            HorizontalAlignment="Left"/>
+        <Button 
+            x:Name="Button_FeetToMeters"
+            Content="Feet > Meters"
+            Grid.Row="2"
+            Grid.Column="0"
+            Width="100"
+            Height="30" 
+            Click="Button_FeetToMeters_Click"/>
+        <Button 
+            x:Name="Button_MetersToFeet"
+            Content="Meters > Feet"
+            Grid.Row="2"
+            Grid.Column="0"
+            Width="100"
+            Height="30" 
+            VerticalAlignment="Top"
+            Click="Button_MetersToFeet_Click"/>
+        <Button 
+            x:Name="Button_Reset"
+            Content="Reset"
+            Grid.Row="2"
+            Grid.Column="0"
+            Width="100"
+            Height="30" 
+            VerticalAlignment="Bottom" Click="Button_Reset_Click"/>
+    </Grid>
+</Window>
