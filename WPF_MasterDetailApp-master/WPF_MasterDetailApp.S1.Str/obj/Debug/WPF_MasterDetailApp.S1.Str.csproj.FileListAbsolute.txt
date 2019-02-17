@@ -1,0 +1,16 @@
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.S1.Str.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\PresentationLayer\ProductWindowView.g.cs
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\App.g.cs
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp_MarkupCompile.cache
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp_MarkupCompile.lref
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\bin\Debug\WPF_MasterDetailApp.exe.config
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\bin\Debug\WPF_MasterDetailApp.exe
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\bin\Debug\WPF_MasterDetailApp.pdb
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\PresentationLayer\ProductWindowView.baml
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.g.resources
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.Properties.Resources.resources
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.S1.Str.csproj.GenerateResource.cache
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.S1.Str.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.exe
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\WPF_MasterDetailApp.pdb
+C:\Users\Voltron\Documents\CIT195\MDA\MDA\WPF_MasterDetailApp-master\WPF_MasterDetailApp.S1.Str\obj\Debug\GeneratedInternalTypeHelper.g.cs
