@@ -1,0 +1,7 @@
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\obj\Debug\Monsters.csprojResolveAssemblyReference.cache
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\obj\Debug\Monsters.csproj.CoreCompileInputs.cache
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\bin\Debug\Monsters.exe.config
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\bin\Debug\Monsters.exe
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\bin\Debug\Monsters.pdb
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\obj\Debug\Monsters.exe
+C:\Users\Voltron\Documents\CIT195\Week06\Monsters\Monsters\obj\Debug\Monsters.pdb
